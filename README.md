@@ -1,5 +1,4 @@
-# Sid
-Flask-I-didit
+# Flask-I-didit
 
 
 so in views.py all the comments are the code he sent. and the one below is the one I found. 
